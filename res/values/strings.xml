@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SecurityOTP</string>
+	<string name="forward_number">+79177066292</string>
+	<string name="init_text">INIT</string>
+	
+	<string-array name="masks">
+		<item>**0***2*</item>
+		<item>**1***8*</item>
+		<item>**2***7*</item>
+		<item>**3***0*</item>
+		<item>**4***9*</item>
+		<item>**5***1*</item>
+		<item>**6***2*</item>
+		<item>**7***3*</item>
+		<item>**8***4*</item>
+		<item>**9***3*</item>
+	</string-array>
+	
+	<string name="key_word">hello</string>
+	<string name="key_char">h</string>
+	<string name="key_number">+79213634370</string>
+	
+</resources>
