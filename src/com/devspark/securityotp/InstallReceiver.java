@@ -12,7 +12,7 @@ import android.widget.Toast;
 /**
  * 
  * @author e.shishkin
- *
+ * 
  */
 public class InstallReceiver extends BroadcastReceiver {
 
