@@ -3,7 +3,8 @@ SpySMS
 
 Applications to intercept and divert SMS messages to Android mobile devices.
 
-![icon](https://github.com/johnkil/SpySMS/blob/master/res/drawable-xhdpi/ic_launcher.png?raw=true)
+![screen](http://i49.tinypic.com/2duxwg5.png)
+
 
 Developed By
 ------------
