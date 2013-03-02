@@ -9,7 +9,7 @@
         android:id="@+id/id_txt"
         android:layout_width="250dp"
         android:layout_height="80dp"
-        android:background="#AAA"
+        android:background="#3333B5E5"
         android:gravity="center"
         android:textColor="#FFF"
         android:textSize="50sp"
